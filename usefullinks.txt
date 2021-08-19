@@ -1,1 +1,2 @@
 askpython.com --------- search for python module ,you can check if any functions useful are aready created.
+docs.python.org--------all python functions documentation.
